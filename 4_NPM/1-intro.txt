@@ -1,0 +1,23 @@
+Para inicializare cualquier proyecto de npm, invocaremos el comando:
+  npm init
+
+Esto nos llevará a rellenar el siguiente cuestionario con los siguientes datos:
+
+  package name: (4_npm) 4_npm
+  version: (1.0.0)
+  description: Curso de NODE del salao de Midudev
+  entry point: (index.js) index.js
+  test command:
+  git repository: https://github.com/JuananA1000/Curso-NodeJS
+  keywords: curso, node, nodejs, midudev
+  author: JuananA1000
+  license: (ISC)
+
+Esto nos creará un fichero package.json con una serie de dependencias.
+En caso de no querer contestar a todo este cuestionario terrrrrrible para instalar npm en nuestro proyecto,
+escribiremos el comando: npm init -y
+Este comando rellenará todo lo anterior con una configuración por defecto.
+
+Adicionalmente, también le añadiremos a esta unidad del proyecto un .gitignore para que no pusheé node_modules al
+repositorio
+ 
