@@ -1,0 +1,28 @@
+{
+  "name": "4_npm",
+  "version": "1.0.0",
+  "description": "Curso de NODE del salao de Midudev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuananA1000/Curso-NodeJS.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs",
+    "midudev"
+  ],
+  "author": "JuananA1000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuananA1000/Curso-NodeJS/issues"
+  },
+  "homepage": "https://github.com/JuananA1000/Curso-NodeJS#readme",
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  }
+}
