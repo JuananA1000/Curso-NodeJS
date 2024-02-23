@@ -1,6 +1,6 @@
 /**
- * Vamos a mejorar nuestra primera app con el método process que hemos aprendido anteriormente. Con esta aplicació
- * podremos leer el contenido de la carpeta que queramos
+ * Vamos a mejorar nuestra primera app con el método process que hemos aprendido anteriormente. Con esta aplicación
+ * podremos leer el contenido de la carpeta que queramos.
  */
 
 const fs = require('node:fs/promises');

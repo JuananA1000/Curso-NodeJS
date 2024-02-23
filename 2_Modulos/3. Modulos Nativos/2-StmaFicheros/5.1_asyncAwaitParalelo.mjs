@@ -1,5 +1,5 @@
 /**
- * Para leer este tipo de ficheros con async-await, pero de manera PARALELA
+ * Para leer este tipo de ficheros con async-await, pero de manera PARALELA.
  */
 
 import { readFile } from 'node:fs/promises';

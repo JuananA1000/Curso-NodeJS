@@ -1,5 +1,5 @@
 /**
- * En realidad, la asincrona en Node, se maneja con PROMESAS y no con callbacks como hemos hecho en el ejemplo anterior
+ * En realidad, la asincronía en Node, se maneja con PROMESAS y no con callbacks como hemos hecho en el ejemplo anterior.
  */
 
 const fileSystem = require('node:fs/promises');

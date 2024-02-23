@@ -1,5 +1,5 @@
 /**
- * PROCESS es un objeto global que informa sobre el proceso actual de ejecución
+ * PROCESS es un objeto global que informa sobre el proceso actual de ejecución.
  */
 
 console.log('Argumentos del proceso: ', process.argv);
@@ -24,5 +24,5 @@ process.exit(1);
 /*
   Códigos del proceso:
   0: Proceso finalizado con éxito 
-  1: Ha habido algún error y tenemos que salir porsiaca
+  1: Ha habido algún error y tenemos que salir, porsiaca
 */

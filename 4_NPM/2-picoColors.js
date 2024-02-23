@@ -9,4 +9,3 @@ const picocolors = require('picocolors');
 console.log(picocolors.red('Este mensaje es rojo'));
 console.log(picocolors.bgRed('Este mensaje tiene el fondo rojo'));
 console.log(picocolors.bgBlack('Este mensaje tiene el fondo negro'));
-

@@ -1,6 +1,6 @@
 /**
  * Para leer este tipo de ficheros con async-await, en primer lugar, cambiaremos la extensión de nuestro fichero a .mjs.
- * los Módulos ECMAScript SI tienen soporte para utilizar await.
+ * los Módulos ECMAScript SÍ tienen soporte para utilizar await.
  */
 
 import { readFile } from 'node:fs/promises';

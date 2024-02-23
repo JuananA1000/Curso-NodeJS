@@ -1,5 +1,5 @@
 /**
- * Con este primer Módulo Nativo, vamos a obtener información de nuestro Sistema Operativo
+ * Con este primer Módulo Nativo, vamos a obtener información de nuestro Sistema Operativo.
  */
 
 const StmaOperativo = require('node:os');

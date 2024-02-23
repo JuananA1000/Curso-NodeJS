@@ -1,6 +1,6 @@
 /**
  * El siguiente Módulo Nativo que estudiaremos en Node será path, el cual nos permite crear o recuperar extensiones,
- * crear rutas absolutas, unir rutas, etc
+ * crear rutas absolutas, unir rutas, etc.
  */
 
 const path = require('node:path');

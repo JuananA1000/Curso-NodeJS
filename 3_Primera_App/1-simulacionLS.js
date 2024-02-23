@@ -1,5 +1,5 @@
 /**
- * Nuestra primnera aplicación en Node se basará en el comando 'dir' o 'ls' de las consolas de Windows y Linux
+ * Nuestra primera aplicación en Node se basará en el comando 'dir' o 'ls' de las consolas de Windows y Linux
  * respectivamente. Consiste en leer el contenido de una carpeta o directorio determinado.
  */
 

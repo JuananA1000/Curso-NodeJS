@@ -1,12 +1,11 @@
 /**
  * El FileSystem o Sistema de Archivos es uno de los módulos más importantes de NodeJS.
- * 
- * En este primer programa, leeremos las estadísticas de un fichero
+ * En este primer programa, leeremos las estadísticas de un fichero:
  */
 
-const fileSystem= require('node:fs')
+const fileSystem = require('node:fs');
 
-const estadisticas = fileSystem.statSync('./archivo.txt')
+const estadisticas = fileSystem.statSync('./archivo.txt');
 
 console.log('\n');
 console.log('___ Información de nuestro fichero archivo.txt ___');

@@ -1,3 +1,7 @@
+/**
+ * Ahora haremos el Módulo Nativo anterior con ECMAScript.
+ */
+
 import { platform, release, arch, cpus, freemem, totalmem, uptime } from 'node:os';
 
 console.log('\n');
